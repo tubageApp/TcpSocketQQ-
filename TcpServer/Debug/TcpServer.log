@@ -1,0 +1,9 @@
+﻿  TcpServer.cpp
+D:\C++学习案例\网络编程\TCPSocket\TcpServer\TcpServer.cpp(110,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++学习案例\网络编程\TCPSocket\TcpServer\TcpServer.cpp(126,46): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\C++学习案例\网络编程\TCPSocket\TcpServer\TcpServer.cpp(182,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++学习案例\网络编程\TCPSocket\TcpServer\TcpServer.cpp(209,22): warning C4018: “<”: 有符号/无符号不匹配
+  servermain.cpp
+  正在生成代码...
+  TalkingRoom.cpp
+  TcpServer.vcxproj -> D:\C++学习案例\网络编程\TCPSocket\Debug\TcpServer.exe
